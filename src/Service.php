@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Omniva;
 
-enum Service : string
+enum Service: string
 {
     case SMS = 'ST';
     case EMAIL = 'SF';

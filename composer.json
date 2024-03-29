@@ -5,7 +5,6 @@
     "require": {
         "php": ">=8.3",
         "ext-soap": "*",
-        "myclabs/php-enum": "^1.8",
         "guzzlehttp/guzzle": "^7.8"
     },
     "require-dev": {
